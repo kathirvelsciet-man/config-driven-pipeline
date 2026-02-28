@@ -1,0 +1,12 @@
+{
+    "total_rows": 2,
+    "columns": [
+        "id",
+        "name",
+        "age",
+        "salary"
+    ],
+    "training_result": {
+        "final_loss": 0.2
+    }
+}
